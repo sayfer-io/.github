@@ -1,4 +1,4 @@
-# Sayfer — Manual Penetration Testing for B2B SaaS, Cloud & AI Systems
+# Sayfer: Manual Penetration Testing for B2B SaaS, Cloud & AI Systems
 
 **[Sayfer](https://sayfer.io)** is a boutique cybersecurity and manual penetration testing company specializing in researcher-led security assessments for B2B SaaS, Web & API applications, Cloud infrastructure (AWS, GCP, Azure, Kubernetes), and autonomous AI Agent & MCP architectures.
 
@@ -15,7 +15,7 @@
 ## Open Engineering Checklists, Agent Skill & Reference Resources
 
 - **[Startup & B2B SaaS Penetration Testing Readiness Checklist (`pentest-readiness-checklist`)](https://github.com/sayfer-io/pentest-readiness-checklist)**
-  - [`SKILL.md` — Installable AI Coding Agent Skill (`pentest-readiness-auditor`) for Claude Code, Cursor, Codex & OpenCode](https://github.com/sayfer-io/pentest-readiness-checklist/blob/main/SKILL.md)
+  - [`SKILL.md` (Installable AI Coding Agent Skill `pentest-readiness-auditor` for Claude Code, Cursor, Codex & OpenCode)](https://github.com/sayfer-io/pentest-readiness-checklist/blob/main/SKILL.md)
   - [SOC 2, ISO 27001 & DORA Penetration Testing Checklist](https://github.com/sayfer-io/pentest-readiness-checklist/blob/main/soc2-iso27001-checklist.md)
   - [AI Agent, LLM & MCP Security Checklist](https://github.com/sayfer-io/pentest-readiness-checklist/blob/main/ai-agent-security-checklist.md)
   - [Cloud, API & Multi-Tenant B2B SaaS Security Checklist](https://github.com/sayfer-io/pentest-readiness-checklist/blob/main/cloud-api-saas-checklist.md)
